@@ -1,1 +1,1 @@
-# day5-programs
+# assignments
